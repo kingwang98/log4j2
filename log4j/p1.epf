@@ -1,0 +1,64 @@
+#Sun Jul 07 23:08:52 CEST 2013
+/instance/org.eclipse.jdt.ui/tabWidthPropagated=true
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.LOG4J2=G\:/home/ww/log4j/
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jre7/lib/rt.jar
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
+/instance/org.eclipse.jdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.editor.tab.width=
+/instance/org.eclipse.ui.ide/platformState=1373059103918
+/instance/org.eclipse.ui.ide/quickStart=false
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+file_export_version=3.0
+@org.eclipse.pde.core=3.9.0.v20130515-1659
+@org.eclipse.jdt.ui=3.9.0.v20130605-1748
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.templates_migrated=true
+/instance/org.eclipse.core.resources/version=1
+/instance/org.eclipse.pde.core/platform_path=G\:\\eclipse
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRC=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=G\:/eclipse
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.userLibrary.ex_lib=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/MyApplication/lib/log4j-api-2.0-beta7.jar"/>\r\n\t<archive path\="/MyApplication/lib/log4j-core-2.0-beta7.jar"/>\r\n\t<archive path\="/MyApplication/lib/mockito-all-1.9.5.jar"/>\r\n</userlibrary>\r\n
+/instance/org.eclipse.ui.ide/PROBLEMS_FILTERS_MIGRATE=true
+@org.eclipse.core.net=1.2.200.v20130430-1352
+@org.eclipse.jdt.launching=3.7.0.v20130515-1451
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.code_templates_migrated=true
+/instance/org.eclipse.jdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.debug.ui/preferredTargets=default\:default|
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.7
+/instance/org.eclipse.ui.ide/tipsAndTricks=true
+/instance/org.eclipse.ui.editors/overviewRuler_migration=migrated_3.1
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.7
+@org.eclipse.debug.ui=3.9.0.v20130516-1713
+/instance/org.eclipse.ui/showIntro=false
+/configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=5
+@org.eclipse.jdt.core=3.9.0.v20130604-1421
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=G\:\\home\\ww\\dev\\wsp\\test_log4j2\nG\:\\home\\ww\\dev\\wsp\\test_log4j2_new\nG\:\\home\\ww\\dev\\wsp\\testw2\nG\:\\home\\ww\\dev\\wsp\\testw1\nC\:\\Users\\ww\\workspace
+/configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=true
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+/instance/org.eclipse.jdt.ui/proposalOrderMigrated=true
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+@org.eclipse.ui.ide=3.9.0.v20130517-0139
+/instance/org.eclipse.jdt.ui/content_assist_proposals_foreground=0,0,0
+/instance/org.eclipse.jdt.ui/fontPropagated=true
+@org.eclipse.core.resources=3.8.100.v20130521-2026
+/instance/org.eclipse.jdt.ui/content_assist_proposals_background=255,255,255
+@org.eclipse.ui=3.105.0.v20130522-1122
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1373224514053" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1373224514053" name\="jre7" path\="C\:\\Program Files\\Java\\jre7"/>\r\n</vmType>\r\n</vmSettings>\r\n
+/instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=G\:/eclipse/plugins/org.junit_4.11.0.v201303080030/
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+@org.eclipse.ui.editors=3.8.100.v20130513-1637
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.javadoclocations.migrated=true
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.formatterprofiles.version=12
+\!/=
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JUNIT_SRC_HOME=G\:/eclipse/plugins/org.junit.source_4.11.0.v201303080030.jar
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.first_time=false
+/instance/org.eclipse.jdt.ui/content_assist_number_of_computers=13
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.7
+/instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Consolas|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Consolas;
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+/instance/org.eclipse.jdt.ui/useAnnotationsPrefPage=true
+@org.eclipse.team.ui=3.7.0.v20130514-1224
